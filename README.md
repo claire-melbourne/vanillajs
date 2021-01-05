@@ -8,13 +8,9 @@ The third take-home coding challenge is a real-world example of a front-end prom
 
 These tests will be used to evaluate your skillset and the type of tasks/projects you'd be great for. We encourage you to do both tests. They are different in nature and evaluate different skills. Start with one that better demonstrates your strengths.
 
+Fork this repo. As you work on the prompts, commit all your work to that forked repo. Commit frequently, as we want to gauge your process, how you approach a problem, and the way you think.
+
 **Important**: Read all of the instructions and information below before beginning.
-
-## Task
-
-1. You have up to 48 hours to complete these tests, starting from the time you've been given access to this repo.
-
-2. Fork this repo. As you work on the tests, commit all your work to that forked repo, but more importantly page your commits. The main aspect we want to gauge is your process, how you approach a problem and the way you think.
 
 ---
 
