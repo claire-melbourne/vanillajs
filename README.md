@@ -26,8 +26,8 @@ Fork this repo. As you work on the prompts, commit all your work to that forked 
 
 5. Use any code library or framework you like except:
 
-* Jquery
-* Framer and other design prototyping tools
+   * jQuery
+   * Framer or other design prototyping tools
 
 **Puzzle**:
 
@@ -53,7 +53,7 @@ Fork this repo. As you work on the prompts, commit all your work to that forked 
 
 ### Extra points
 
-The items outlined so far are what we would consider the minimum set of requirements. It's okay if there are items that you cannot complete for some reason, but please let us know why. Additionally completing some of the Extra Point items can compensate for items not completed in the initial set.
+The items outlined so far are what we would consider the minimum set of requirements. It's okay if there are items that you cannot complete for some reason, but please let us know why.
 
 * Use Sass or SCSS, and optionally a CSS post-processor such as [PostCSS](https://github.com/postcss/postcss). No frameworks such Bourbon, Neutron, Compass, or otherwise are allowed; we want to see *your* CSS.
 * Use ES6/ES2015 or Typescript transpiled to ES5. If you decide to do this, please include and comment on your build process.
@@ -63,7 +63,7 @@ The items outlined so far are what we would consider the minimum set of requirem
 * Use commit tools like [commitizen](https://github.com/commitizen/cz-cli) and [commitlint](https://github.com/conventional-changelog/commitlint) to ensure commit messages follow a standard format and style. The [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) may provide some inspiration.
 * Add git hooks through tools like [husky](https://github.com/typicode/husky) to ensure any tests or scripts needed to validate your code are run before being pushed.
 
-## Deliverables [DO NOT SUBMIT -- these instructions are FYI as another example of how you may be asked to deliver your work]
+## Deliverables [JSP: Do not submit. These instructions are FYI as another example of how you may be asked to deliver your work.]
 
 1. A link to the forked repo emailed to us as soon as you start the test.
 
